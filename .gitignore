@@ -36,7 +36,7 @@ NTUSER.DAT*
 *.log
 *.pem
 *.txt
-*.py
+
 # Ignore common system files
 *.log
 *.tmp
@@ -51,5 +51,4 @@ NTUSER.DAT*
 .gitconfig
 .lesshst
 
-# Ignore specific files by extension
-*.py
+
