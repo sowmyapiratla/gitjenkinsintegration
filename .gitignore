@@ -13,3 +13,12 @@ demoapp/
 git-log/
 linux-practices/
 testdir/
+# Ignore all .py files
+*.py
+
+# Ignore specific files and directories
+NTUSER.DAT
+*.log
+*.pem
+*.ini
+*.txt
